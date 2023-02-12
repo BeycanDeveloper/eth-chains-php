@@ -1,5 +1,5 @@
 {
-    "name": "beycan/multi-chain",
+    "name": "beycan/eth-chains",
     "version": "0.1.0",
     "description": "Ready node library for transacting on many Ethereum based networks.",
     "type": "library",
